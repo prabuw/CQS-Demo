@@ -1,0 +1,7 @@
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\bin\Debug\CQSDemo.MediatrCore.dll
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\bin\Debug\CQSDemo.MediatrCore.pdb
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\bin\Debug\MediatR.dll
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\obj\Debug\CQSDemo.MediatrCore.csprojResolveAssemblyReference.cache
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\obj\Debug\CQSDemo.MediatrCore.csproj.CoreCompileInputs.cache
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\obj\Debug\CQSDemo.MediatrCore.dll
+\\clarksons.co.uk\fr\EMEA1\pwe\My Documents\Visual Studio 2017\Projects\CQS Demo\CQSDemo\CQSDemo.MediatrCore\obj\Debug\CQSDemo.MediatrCore.pdb

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CQSDemo.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:CQSDemo.WebApi.Models.CreateWorksheetRequest">
+            <summary>
+            Create worksheet request
+            </summary>
+        </member>
+        <member name="P:CQSDemo.WebApi.Models.CreateWorksheetRequest.WorksheetName">
+            <summary>
+            Worksheet's name
+            </summary>
+        </member>
+        <member name="M:WebApi.Controllers.BrighterWorksheetController.Get(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="worksheetId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.BrighterWorksheetController.Post(CQSDemo.WebApi.Models.CreateWorksheetRequest)">
+            <summary>
+            
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MediatrWorksheetController.Get(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="worksheetId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MediatrWorksheetController.Post(CQSDemo.WebApi.Models.CreateWorksheetRequest)">
+            <summary>
+            
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
